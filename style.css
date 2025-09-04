@@ -229,8 +229,8 @@ body {
 
 #album-art.active img.active {
   z-index: 1;
-  -webkit-animation: rotateAlbumArt 3s linear 0s infinite forwards;
-          animation: rotateAlbumArt 3s linear 0s infinite forwards;
+  -webkit-animation: rotateAlbumArt 5s linear 0s infinite forwards;
+          animation: rotateAlbumArt 5s linear 0s infinite forwards;
 }
 
 @-webkit-keyframes rotateAlbumArt {
